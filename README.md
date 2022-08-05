@@ -1,3 +1,6 @@
+# Archived
+Because i barely play VRChat anymore and doubt i will again now that the devs have added EAC i will be uploading the Udon scripts i've made and archiving this repository. I don't support games that cut their playerbase's throats all the time and do nothing at all, only to then suddenly turn around and start implementing long requested features when they get backlash for their poor behaviour to the community.
+
 # sUDON
 Repository with my UDON scripts for VRChat
 
